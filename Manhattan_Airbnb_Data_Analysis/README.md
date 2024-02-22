@@ -16,12 +16,12 @@ The analysis concentrates on various neighborhoods in Manhattan, examining facto
 
 Below is a chart illustrating the annual revenue of the top 10 neighborhoods in Manhattan, reflecting the investor's criteria:
 
-![Annual Revenue of Top 10 Neighborhoods](Manhattan_Airbnb_Data_Analysis/Top_10_Neighborhoods_Revenue.png)
+![Annual Revenue of Top 10 Neighborhoods](Top_10_Neighborhoods_Revenue.png)
 *Figure: Annual revenue comparison of top neighborhoods in Manhattan. Over the past year, Midtown and Hell's Kitchen have led in total reviews, with Midtown properties predominantly being studios (average bedroom count of 0.3). In contrast, Hell’s Kitchen properties average 1.8 bedrooms, with a daily rate of $288 and a 73% occupancy rate, aligning well with our investor's criteria for demand, profitability, and property size.*
 
 Below is another chart showing the popularity of neighborhoods based on total reviews over the last 12 months:
 
-![Top 10 Neighborhoods by Reviews](Manhattan_Airbnb_Data_Analysis/Top_10_Neighborhoods_Reviews.png)
+![Top 10 Neighborhoods by Reviews](Top_10_Neighborhoods_Reviews.png)
 *Figure: Review counts for the top neighborhoods in Manhattan over the last 12 months. The Lower East Side, Hell’s Kitchen, and Harlem stand out as the most popular, with total reviews of 6068, 4633, and 4458, respectively.*
 
 ## Google Sheets Document
