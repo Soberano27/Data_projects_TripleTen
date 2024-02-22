@@ -21,8 +21,8 @@ Below is a chart illustrating the annual revenue of the top 10 neighborhoods in 
 
 Below is another chart showing the popularity of neighborhoods based on total reviews over the last 12 months:
 
-![Annual Revenue of Top 10 Neighborhoods](/Manhattan_Airbnb_Data_Analysis/Top_10_Neighborhoods_Revenue.png)
-*Figure: This bar chart illustrates the annual revenue of the top 10 neighborhoods in Manhattan, filtered based on the investor's criteria. The analysis shows that the Lower East Side, Hell’s Kitchen, and Harlem are the most popular neighborhoods, with total review counts in the last 12 months being 6068, 4633, and 4458, respectively. These insights are crucial for understanding market demand and potential investment returns.*
+![Top 10 Neighborhoods by Reviews](Manhattan_Airbnb_Data_Analysis/Top_10_Neighborhoods_Reviews.png)
+*Figure: Review counts for the top neighborhoods in Manhattan over the last 12 months. The Lower East Side, Hell’s Kitchen, and Harlem stand out as the most popular, with total reviews of 6068, 4633, and 4458, respectively.*
 
 ## Google Sheets Document
 
