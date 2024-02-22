@@ -19,19 +19,19 @@ I leveraged Tableau to analyze the Superstore's sales data, creating a series of
 
 The following visualizations were key to identifying profit and loss centers:
 
-![Profit by Month](/path/to/Profit_by_Month.png)
+![Profit by Month](Profit_by_Month.png)
 *Figure: The line chart represents the monthly profit trends, highlighting New York State in September as a major profit center.*
 
-![Bottom 10 Products](/path/to/Bottom_10_Products.png)
+![Bottom 10 Products](Bottom_10_Products.png)
 *Figure: This bar chart delineates the least performing products, suggesting areas where the Superstore could optimize its product offerings.*
 
-![Profit by State](/path/to/Profit_by_State.png)
+![Profit by State](Profit_by_State.png)
 *Figure: A stacked bar chart showing profit by state, with Texas in July marked as a notable loss center.*
 
-![Profit by Ship Mode](/path/to/Profit_by_Ship_Mode.png)
+![Profit by Ship Mode](Profit_by_Ship_Mode.png)
 *Figure: Profitability analysis by shipping mode, providing insights into operational costs and efficiency.*
 
-![Profit by Sub-Category](/path/to/Profit_by_Sub-Category.png)
+![Profit by Sub-Category](Profit_by_Sub-Category.png)
 *Figure: The bar chart breaks down profit by sub-category, directing attention to the most and least profitable lines.*
 
 ## Dashboard Link
