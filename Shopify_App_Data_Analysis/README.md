@@ -19,26 +19,40 @@ The analysis was conducted using the following data scraped from publicly availa
 
 Insights from the visualizations inform the strategies for app success:
 
-![Developer Response](/path/to/developer_response.png)
+![Developer Response](developer_response.png)
+
 *Figure 1: Bar chart showing the sum of developer responses, indicating developer engagement levels.*
 
-![Review Statistics](/path/to/review_statistics.png)
+
+![Review Statistics](review_statistics.png)
+
 *Figure 2: A KPI card displaying the total number of reviews and average rating, suggesting areas for customer experience improvement.*
 
-![Review Count Over Time](/path/to/review_count_over_time.png)
+
+![Review Count Over Time](review_count_over_time.png)
+
 *Figure 3: Line chart tracking the volume of reviews over time, revealing the ebb and flow of user engagement.*
 
-![Rating vs. Reviews](/path/to/rating_vs_reviews.png)
+
+![Rating vs. Reviews](rating_vs_reviews.png)
+
 *Figure 4: Scatter plot correlating review counts with average ratings, providing insight into customer satisfaction.*
 
-![Developer Answered](/path/to/developer_answered.png)
+
+![Developer Answered](developer_answered.png)
+
 *Figure 5: Analysis of developer engagement and its correlation with user ratings.*
 
-![Sum of Ratings](/path/to/sum_of_ratings.png)
+
+![Sum of Ratings](sum_of_ratings.png)
+
 *Figure 6: Bar chart displaying the sum of ratings by developer, indicating overall user sentiment.*
 
-![Average Helpful Reviews](/path/to/average_helpful_reviews.png)
+
+![Average Helpful Reviews](average_helpful_reviews.png)
+
 *Figure 7: Bar chart of average helpful reviews by developer, highlighting the impact of quality feedback.*
+
 
 
 ## Conclusion
