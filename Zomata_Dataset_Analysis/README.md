@@ -16,24 +16,31 @@ My analysis is driven by:
 The visualizations from the analysis are as follows:
 
 ![City Sales Analysis](city_sales_analysis.png)
+
 *Figure 1: A bar chart that showcases sales performance across different cities, with a special focus on the outstanding sales volume in Tirupati.*
 
 ![Cuisine Sales Analysis](cuisine_sales_analysis.png)
+
 *Figure 2: A bar chart showing the total sales by cuisine, which emphasizes the popularity of Indian and Chinese dishes.*
 
 ![Cuisine Average Sales](cuisine_average_sales.png)
+
 *Figure 3: This chart details the average sales by cuisine, where Indian-Thai fusion cuisine is seen leading in revenue.*
 
 ![Rating vs Sales Correlation](rating_vs_sales_correlation.png)
+
 *Figure 4: A scatterplot that explores the complex relationship between average ratings and sales.*
 
 ![Rating Count vs Sales](rating_count_vs_sales.png)
+
 *Figure 5: This comparative analysis pairs the average sales amount with the total number of restaurants by rating count.*
 
 ![Market Trend Analysis](market_trend_analysis.png)
+
 *Figure 6: A line graph showing the sales trends over time, with a significant downturn noted during the pandemic period.*
 
 ![Monthly Sales Trends](monthly_sales_trends.png)
+
 *Figure 7: A line chart illustrating the monthly sales trends, indicating strategic periods for marketing based on peaks and troughs.*
 
 ## Conclusion
